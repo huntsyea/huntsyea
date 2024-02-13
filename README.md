@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a product manager by trade by I love to dabble in all things tools, productivity, mental models, and learning.
 
 <!--
 **huntsyea/huntsyea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
