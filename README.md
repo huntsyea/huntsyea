@@ -79,4 +79,3 @@ As far as learning, I am currently focused natural language processing and compu
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
