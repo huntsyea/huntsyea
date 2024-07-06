@@ -1,25 +1,9 @@
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com) [![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjkuMDQ2ODkwMjU4Nzg5MDYiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxNjkuMDQ2ODkwMjU4Nzg5MDYgMzUiPjxyZWN0IHdpZHRoPSI4OS4yOTY4ODI2MjkzOTQ1MyIgaGVpZ2h0PSIzNSIgZmlsbD0iIzAwMDAwMCIvPjxyZWN0IHg9Ijg5LjI5Njg4MjYyOTM5NDUzIiB3aWR0aD0iNzkuNzUwMDA3NjI5Mzk0NTMiIGhlaWdodD0iMzUiIGZpbGw9IiNmNWE2MjMiLz48dGV4dCB4PSI0NC42NDg0NDEzMTQ2OTcyNjYiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlJVTlMgT048L3RleHQ+PHRleHQgeD0iMTI5LjE3MTg4NjQ0NDA5MTgiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGxldHRlci1zcGFjaW5nPSIyIj5DSEFUUFQ8L3RleHQ+PC9zdmc+)](https://forthebadge.com)
 <div align="center">
-<img src="https://y.yarn.co/faa919e5-45be-4170-88ac-0325be2897d4_text.gif" align="center" style="width: 100%" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huntsyea&theme=github" style="width: 100%" />
 </div>  
-  
 
-##   
-  
-
-<a href="https://github.com/huntsyea" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/huntsyea" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/huntsyea" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
-###     
+## About Me     
   
 I'm a product leader by day and builder by night. I hadn't really done much development beyond Python until March 2024.
 
@@ -40,16 +24,12 @@ As far as learning, I am currently focused natural language processing and compu
 
 
 ### What I am Playing In  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-</div>  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,docker,c,vim" />
+  </a>
+</p>
+
 
 <br/>  
 
