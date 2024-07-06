@@ -59,8 +59,7 @@ As far as learning, I am currently focused natural language processing and compu
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=huntsyea&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
-![huntsyea's Streak](https://github-readme-streak-stats.herokuapp.com/?user=huntsyea&theme=default&hide_border=true)
-
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=huntsyea&theme=default&hide_border=true" align="center" style="width: 100%" /></div>
 
 </td></tr></table>  
 
