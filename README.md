@@ -1,10 +1,10 @@
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com) [![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjkuMDQ2ODkwMjU4Nzg5MDYiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxNjkuMDQ2ODkwMjU4Nzg5MDYgMzUiPjxyZWN0IHdpZHRoPSI4OS4yOTY4ODI2MjkzOTQ1MyIgaGVpZ2h0PSIzNSIgZmlsbD0iIzAwMDAwMCIvPjxyZWN0IHg9Ijg5LjI5Njg4MjYyOTM5NDUzIiB3aWR0aD0iNzkuNzUwMDA3NjI5Mzk0NTMiIGhlaWdodD0iMzUiIGZpbGw9IiNmNWE2MjMiLz48dGV4dCB4PSI0NC42NDg0NDEzMTQ2OTcyNjYiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlJVTlMgT048L3RleHQ+PHRleHQgeD0iMTI5LjE3MTg4NjQ0NDA5MTgiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGxldHRlci1zcGFjaW5nPSIyIj5DSEFUUFQ8L3RleHQ+PC9zdmc+)](https://forthebadge.com)
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huntsyea&theme=github" style="width: 100%" />
 </div>  
+</br>
+<div align="center"><img src="https://forthebadge.com/images/badges/0-percent-optimized.svg" /> <img src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" /></div>    
 
 ## About Me     
-  
 I'm a product leader by day and builder by night. I hadn't really done much development beyond Python until March 2024.
 
 Currently, I'm building new things at Ramsey Solutions, where I have spent the last four years focused on new experiences and early growth.
@@ -13,48 +13,44 @@ Every quarter, I spend time coaching solo-founders through validation and PMF. T
 
 I am hacking on a slew of personal projects. The majority of these are weekend projects to explore the topics I am learning.
 
-As far as learning, I am currently focused natural language processing and computer vision. I am working through a learning pathway I compiled from Stanford and other resources.
+As far as learning, I am currently focused natural language processing and computer vision. I am working through a learning pathway I compiled from Stanford and other resources.  
 
+<br/>  
+
+## Dabbling In
+<div align="center" style="margin-bottom: 40px">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white" />
+    <img src="https://img.shields.io/badge/Paperspace-000000.svg?style=for-the-badge&logo=Paperspace&logoColor=white" />
+     <img src="https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=Railway&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" />
+    <br/>  
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+    <img src="https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugo-FF4088.svg?style=for-the-badge&logo=Hugo&logoColor=white" />
+                <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />
+    <br/> 
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/Traefik%20Proxy-24A1C1.svg?style=for-the-badge&logo=Traefik-Proxy&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
   
-  
+</div>
+
 
 <br/>  
 
 
-
-
-### What I am Playing In  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,docker,c,vim" />
-  </a>
-</p>
-
-
-<br/>  
-
-
-## Deets  
-
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=huntsyea&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+## Dopamine  
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=huntsyea&theme=default&hide_border=true" align="center" style="width: 100%" /></div>
 
-</td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=huntsyea&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
