@@ -21,7 +21,7 @@
 
 ###     
   
-I'm a product leader by day and builder by night.
+I'm a product leader by day and builder by night. I hadn't really done much development beyond Python until March 2024.
 
 Currently, I'm building new things at Ramsey Solutions, where I have spent the last four years focused on new experiences and early growth.
 
