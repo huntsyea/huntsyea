@@ -50,7 +50,6 @@ As far as learning, I am currently focused natural language processing and compu
 
 
 ## Dopamine  
-
-<div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=huntsyea&theme=swift&hide_border=true&card_width=600&fire=FF4A22&currStreakLabel=FF4A22" alt="GitHub Streak" /></a></div>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=huntsyea&theme=ayu-light&hide_border=true&card_width=600" style="width: 100%" /></div>
 
 
