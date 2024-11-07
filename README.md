@@ -2,7 +2,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huntsyea&theme=github" style="width: 100%" />
 </div>  
 </br>
-<div align="center"><img src="https://forthebadge.com/images/badges/0-percent-optimized.svg" /> <img src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" /></div>    
 
 ## About Me     
 I'm a product leader by day and builder by night. I hadn't really done much development beyond Python until March 2024.
