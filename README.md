@@ -16,13 +16,12 @@ As far as learning, I am currently focused natural language processing and compu
 
 <br/>  
 
-## I Dabble In
+## Dabbles In
 <div align="center" style="margin-bottom: 40px">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white" />
-    <img src="https://img.shields.io/badge/Paperspace-000000.svg?style=for-the-badge&logo=Paperspace&logoColor=white" />
      <img src="https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=Railway&logoColor=white" />
     <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" />
     <br/>  
