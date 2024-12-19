@@ -42,12 +42,3 @@ As far as learning, I am currently focused natural language processing and compu
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
   
 </div>
-
-
-<br/>  
-
-
-## Dopamine  
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=huntsyea&theme=ayu-light&hide_border=true&card_width=600" style="width: 100%" /></div>
-
-
